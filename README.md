@@ -44,4 +44,16 @@ Backend engineering fundamentals, system design, and AI/ML foundations (FastAPI,
 
 ---
 
+<div align="center">
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-alsayed001/m-alsayed001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-alsayed001/m-alsayed001/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/m-alsayed001/m-alsayed001/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:8B5CF6&height=100&section=footer" width="100%"/>
