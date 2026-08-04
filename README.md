@@ -1,8 +1,12 @@
-# Mohamad Alsayed
+<div align="center">
 
-Front-end-focused full-stack developer specializing in **React, Next.js, and TypeScript** — building Arabic-first, RTL products for local markets while delivering remotely for international teams.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:1E1B4B&height=180&section=header&text=Mohamad%20Alsayed&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamad-alsayed-952b222a6)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Front-end-focused+Full-Stack+Developer;React+%2B+Next.js+%2B+TypeScript;Arabic-first%2C+RTL+products+for+local+%26+global+teams" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-alsayed-952b222a6)
+
+</div>
 
 ---
 
@@ -32,4 +36,12 @@ Backend engineering fundamentals, system design, and AI/ML foundations (FastAPI,
 
 ## 💻 Tech Stack
 
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Redux Toolkit` `FastAPI` `PostgreSQL` `Git` `Figma`
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,redux,fastapi,postgres,git,figma&theme=dark" />
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:8B5CF6&height=100&section=footer" width="100%"/>
