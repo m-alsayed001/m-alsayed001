@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Front-end-focused+Full-Stack+Developer;React+%2B+Next.js+%2B+TypeScript;Arabic-first%2C+RTL+products+for+local+%26+global+teams" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-alsayed-952b222a6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://m-alsayed.vercel.app/)
+
 
 </div>
 
